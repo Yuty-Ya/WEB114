@@ -5,6 +5,18 @@ body {
   font-size: 16px;
 }
 
+nav{
+  height: 35;
+}
+
+main {
+
+font-weight: bold;
+background-image: src="house.jpg";
+background-repeat: repeat-x;;
+}
+
+
 header{
   background-color: #00602b;
   text-align: center;
