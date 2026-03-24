@@ -15,7 +15,7 @@ let grosspaid = hourly * hoursworked;
 let taxes = grosspaid * 0.10;
 let netpay = grosspaid - taxes;
 
-console.log(`Your pay is: $${netPay.toFixed(2)}`);
+console.log(`Your pay is: $${netpay.toFixed(2)}`);
 
 if (hoursworked > 40) {
     console.log("You worked overtime this week!");
