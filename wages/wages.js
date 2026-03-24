@@ -3,19 +3,19 @@
 let hourly = prompt("What is your hourly wage?");
 hourly = Number(hourly);
 
-confirm('Your hour wage is ${hourly}?');
+confirm(`Your hour wage is ${hourly}?`);
 
 let hoursworked = prompt("How many hours did you work this week?");
 hoursworked = hoursworked.trim();
 hoursworked = Number(hoursworked);
 
-confirm('You worked ${hoursworked} hours this week?');
+confirm(`You worked ${hoursworked} hours this week?`);
 
 let grosspaid = hourly * hoursworked;
 let taxes = grosspaid * 0.10;
 let netpay = grosspaid - taxes;
 
-console.log('Your pay is: $${netPay.toFixed(2)}');
+console.log(`Your pay is: $${netPay.toFixed(2)}`);
 
 if (hoursworked > 40) {
     console.log("You worked overtime this week!");
