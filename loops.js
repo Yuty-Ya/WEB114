@@ -3,7 +3,7 @@
 
 "use strict";
 
-for(let Crate = 1; Crate <= 20; Crate++); {
+for(let Crate = 1; Crate <= 20; Crate++) {
     if (Crate % 5 == 0) {
         console.log("Handle with care");
     } else if (Crate % 2 == 0) {
@@ -16,3 +16,4 @@ for(let Crate = 1; Crate <= 20; Crate++); {
 console.log("scanned 20 Crates");
 
 // using new one pls github :sob:
+//ok, new one hi.
