@@ -3,12 +3,16 @@
 
 "use strict";
 
-for(let Crate = 1; Crate <= 20; Crate++) {
+for(let Crate = 1; Crate <= 20; Crate++); {
     if (Crate % 5 == 0) {
-        console.log("Handle with care")
+        console.log("Handle with care");
     } else if (Crate % 2 == 0) {
-        console.log("Load crate")
+        console.log("Load crate");
     } else {
-        console.log("Inspect crate, Unknown Crate/Cargo")
+        console.log("Inspect crate, Unknown Crate/Cargo");
     }
 }
+
+console.log("scanned 20 Crates");
+
+// using new one pls github :sob:
