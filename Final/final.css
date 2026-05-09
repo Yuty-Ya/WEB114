@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: 0.5s;
+}
+
+#control {
+    display: flex;
+}
+
+#dacoin {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: silver;
+    display: flex;
+    margin: 50px auto;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    border: 4px solid black;
+}
+
+button {
+    padding: 12px 24px;
+    font-size: 20px;
+}
