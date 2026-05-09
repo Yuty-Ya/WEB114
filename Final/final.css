@@ -1,7 +1,6 @@
 body {
     text-align: center;
     font-family: Arial, sans-serif;
-    /* background-color: 0.5s; ?????????? what did i type here */
     transition: background-color 0.5s;
 }
 
