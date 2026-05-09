@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    /* background-color: 0.5s; ?????????? what did i type here */
+    transition: background-color 0.5s;
+}
+
+#valuesandstuff {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+}
+
+#coin {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: silver;
+    display: flex;
+    margin: 50px auto;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    border: 4px solid black;
+}
+
+button {
+    padding: 12px 24px;
+    font-size: 20px;
+}
+
+/* fixed spelling errors :sob: */
