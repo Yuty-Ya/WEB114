@@ -1,0 +1,3 @@
+Ok, So I choose this project because me and a couple of friends were talking and we needed something to choose for us. I was thinking to myself it would be nice if we had a program/website that could pick for us.
+However, I wanted more options for the coin, Such as more sides (simlar to a dice.) and how long it could spin for, To add attetion for those big moments. It could also be used in cards game such as magic the gathering when one of the cards says pick a random player, Set how many players we have at the table and go from there.
+As for the autospin, Sometimes in magic there is cards with alot of things that need to resolved, So turn on auto spin and set the spin timer to 3 seconds. alot quicker then having to roll dice over and over.
